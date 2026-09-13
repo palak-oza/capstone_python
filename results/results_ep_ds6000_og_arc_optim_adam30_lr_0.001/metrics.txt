@@ -1,0 +1,24 @@
+MLP vs CNN CIFAR-10 Results
+==================================================
+
+MLP Test Loss: 4.4116
+MLP Test Accuracy: 41.83%
+MLP Training Time: 28.14 seconds
+
+CNN Test Loss: 2.9986
+CNN Test Accuracy: 56.67%
+CNN Training Time: 124.33 seconds
+
+Per-Class Accuracy
+--------------------------------------------------
+Class                   MLP         CNN
+airplane             65.00%      56.67%
+automobile           40.00%      68.33%
+bird                 33.33%      50.00%
+cat                  30.00%      45.00%
+deer                 16.67%      35.00%
+dog                  51.67%      50.00%
+frog                 53.33%      75.00%
+horse                48.33%      65.00%
+ship                 46.67%      65.00%
+truck                33.33%      56.67%
