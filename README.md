@@ -1,8 +1,9 @@
 # CIFAR-10 MLP vs CNN Comparison
 
-## 🎥 Project Explanation
+<h2>🎥 Project Explanation</h2>
 
-[▶️ Watch the Project Explanation Video](./video_explaination.mp4)
+<video src="./video_explaination.mp4" controls width="800">
+</video>
 
 ## 1. Project Overview
 
