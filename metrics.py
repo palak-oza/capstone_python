@@ -250,7 +250,6 @@ print("SAVING METRICS")
 print("=" * 60)
 
 save_metrics(
-    # MLP
     mlp_test_loss,
     mlp_test_accuracy,
     mlp_precision,
@@ -262,7 +261,6 @@ save_metrics(
     mlp_per_class_f1,
     mlp_training_time,
 
-    # CNN
     cnn_test_loss,
     cnn_test_accuracy,
     cnn_precision,

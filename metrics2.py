@@ -55,9 +55,7 @@ def evaluate_model(model, model_path, test_loader, device):
         map_location=device
     )
 
-    # Handle both:
-    # 1. state_dict directly
-    # 2. checkpoint dictionary containing state_dict
+   
     if isinstance(checkpoint, dict) and "state_dict" in checkpoint:
         model.load_state_dict(checkpoint["state_dict"])
     else:
@@ -287,10 +285,7 @@ def evaluate_all_models(
             print(model_name)
             print("-" * 60)
 
-            # Create correct architecture
             model = model_builders[setting][model_name]()
-
-            # Evaluate existing trained model
             metrics = evaluate_model(
                 model=model,
                 model_path=model_path,
