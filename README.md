@@ -2,7 +2,7 @@
 
 ## 🎥 Project Explanation
 
-[▶️ Watch the Project Explanation Video]([https://drive.google.com/file/d/1RQ-GFdL_KmROo8r0ATLTzRzCkDsHSNwt/view?usp=sharing])
+[▶️ Watch the Project Explanation Video](https://drive.google.com/file/d/1RQ-GFdL_KmROo8r0ATLTzRzCkDsHSNwt/view?usp=sharing)
 
 ## 1. Project Overview
 
