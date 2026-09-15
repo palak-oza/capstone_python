@@ -1,5 +1,9 @@
 # CIFAR-10 MLP vs CNN Comparison
 
+## 🎥 Project Explanation
+
+[▶️ Watch the Project Explanation Video](./video_explaination.mp4)
+
 ## 1. Project Overview
 
 This project investigates the performance of **Multi-Layer Perceptrons (MLPs)** and **Convolutional Neural Networks (CNNs)** on the CIFAR-10 image-classification dataset.
